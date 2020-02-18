@@ -19,6 +19,7 @@ class Cart {
      * adds a devices to the database 
      */
  }
+ 
 public function addCart($devices, $name) {
 
 
